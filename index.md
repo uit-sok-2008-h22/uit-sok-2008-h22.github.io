@@ -9,7 +9,7 @@ Kurset Nordiske modellen bla bla bla
 Andrea Mannberg og Mikko Moilanen er faglærer på kurset. Andrea Mannberg har kursansvar.
 
 ## Pensum
-Barr,,,,
+Barr,,,,//
 Boeri, T. & van Ours, J. The Economics of Imperfect Labor Markets, Third Edition, Princeton.
 
 ## Forelesningsplan
