@@ -6,7 +6,15 @@
 Kurset Nordiske modellen bla bla bla
 
 ## Faglærerinfo
-Andrea Mannberg og Mikko Moilanen er faglærer på kurset. Andrea Mannberg har kursansvar.
+<strong>Andrea Mannberg</strong> (kursansvarlig lærer) - professor i samfunnsøkonomi
+
+Epost: andrea.mannberg@uit.no
+
+Telefon: 
+
+<strong>Mikko Moilainen</strong> - professor i sammfunnsøkonomi
+
+Epost: mikko.moilainen@uit.no
 
 ## Pensum
 Barr.
