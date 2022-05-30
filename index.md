@@ -16,6 +16,8 @@ Telefon: 92082025
 
 Epost: mikko.moilainen@uit.no
 
+Telefon: 452 363 55
+
 ## Pensum
 Barr.
 
