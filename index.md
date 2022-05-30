@@ -3,7 +3,7 @@
 <!-- Gjør endringer under her -->
 
 ## Kursbeskrivelse 
-Kurset Nordiske modellen bla bla bla
+Kurset Nordiske modellen. Dette er en beskrivelse av det nordiske modellen. Dette har ikke noen mening. Mikko jobber samtidlig men jag skriver over det han skriver tror jeg. 
 
 ## Faglærerinfo
 <strong>Andrea Mannberg</strong> (kursansvarlig lærer) - professor i samfunnsøkonomi
