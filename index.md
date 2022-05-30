@@ -4,6 +4,7 @@
 
 ## Kursbeskrivelse 
 Kurset Nordiske modellen bla bla bla
+Det er her en svært dårlig beskrivelse av kurset. Den har ikke noen mening. 
 
 ## Faglærerinfo
 <strong>Andrea Mannberg</strong> (kursansvarlig lærer) - professor i samfunnsøkonomi
