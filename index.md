@@ -31,6 +31,7 @@ Telefon: +47 77 62 32 02
 ## Forelesningsplan
 - [Timeplan](https://timeplan.uit.no/emne_timeplan.php?sem=22h&module=SOK-2008-1#week=33-52)
 - Innhold
+  - [Tema 1 - Velferdsteori og den Nordiske modellen](tema1.md)
 - Ressurser
   - Pensum
   - Notater
