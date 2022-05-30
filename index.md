@@ -10,7 +10,7 @@ Kurset Nordiske modellen bla bla bla
 
 Epost: andrea.mannberg@uit.no
 
-Telefon: 
+Telefon: 92082025
 
 <strong>Mikko Moilainen</strong> - professor i sammfunnsøkonomi
 
