@@ -8,6 +8,8 @@ På innføringskursene i mikroøkonomien lærer man at samfunnets velferd blir m
 
 Formålet med kurset SOK-2008 «Den Nordiske modellen» er å gi innsikt i sentrale trekk ved den nordiske samfunnsmodellen, og å gi en forståelse av offentlig inngrep i økonomien og innblikk i velferdsøkonomiske problemstillinger. Det vil bli lagt spesiell vekt på de teoretiske argumentene bak velferdsordningenes innretning og omfang og på de insentivproblemene som oppstår i skjæringspunktet mellom velferdsstat og marked.
 
+Du finner detaljert informasjon om opplegget på kurset [her](Kursdokument.md)
+
 ## Faglærerinfo
 <strong>[Andrea Mannberg](https://uit.no/ansatte/andrea.mannberg)</strong> (Fagansvar) - professor i samfunnsøkonomi
 
