@@ -12,7 +12,7 @@ Epost: andrea.mannberg@uit.no
 
 Telefon: 92082025
 
-<strong>Mikko Moilainen</strong> - professor i sammfunnsøkonomi
+<strong>Mikko Moilainen</strong> - professor i sammfunnsøkonomi. Prøver å committe!
 
 Epost: mikko.moilainen@uit.no
 
