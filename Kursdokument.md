@@ -64,6 +64,8 @@ Du finner detaljert støtte til utfordringene her (lenke)
 
 
 **Tabell 1.** Regel for poengsetting av utfordringer
+
+
 | Poeng | Beskrivelse |
 | ----- |------------ |
 | 2 | Svært godt gjennomført. Alle spørsmål er fullstendig besvarte. Det er enkelt å følge resonnementene. Det gis god økonomisk intuisjon til alle oppgaver. Matematikken er i stort korrekt og enkel å følge. Det finnes ikke store feil. Oppgaven er ryddig skreven.|
@@ -80,6 +82,7 @@ Du vil ha X minutter på deg på den muntlige eksamen.
 Eksaminator vil evaluere presentasjonen av hvert læringsmål på en skala mellom null og to. Den muntlige eksamen kan maksimalt gi 12 (6x2) poeng. Poengsettingen vil skje i henhold til regelen i Tabell 2
 
 **Tabell 2.** Regel for poengsetting muntlig eksamen
+
 
 | Poeng | Beskrivelse |
 | ----- | ----------- |
