@@ -1,3 +1,7 @@
+{% include top-box.html %} <!-- Kode for å inkludere boksen på toppen av siden. Se _config.yml for å gjøre endringer. -->
+{% include navbar.html %} <!-- Kode for navigasjonsmeny. Se navbar.html for å gjøre endringer. -->
+<!-- Gjør endringer under her -->
+
 #Innlevering 2
 Din utfordring er å løse oppgavene i dette dokumentet. Poengene fra utfordringen teller til eksamen. Du kan få 0, 1 eller 2 poeng. Din besvarelse blir evaluert etter regelen i tabell 1. 
 
