@@ -65,9 +65,9 @@ Du finner detaljert støtte til utfordringene her (lenke)
 
 **Tabell 1.** Regel for poengsetting av utfordringer
 | Poeng | Beskrivelse |
-------- |------------- |
+| ----- |------------ |
 | 2 | Svært godt gjennomført. Alle spørsmål er fullstendig besvarte. Det er enkelt å følge resonnementene. Det gis god økonomisk intuisjon til alle oppgaver. Matematikken er i stort korrekt og enkel å følge. Det finnes ikke store feil. Oppgaven er ryddig skreven.|
-|1| Tilstrekkelig godt gjennomført. Alle spørsmål er besvarte eller så er nesten alle spørsmål besvarte OG det gis en god gjennomgang av problemer med ubesvarte oppgaver. Det går å følge resonnementene. Det gis økonomisk intuisjon. Det kan finnes små feil i matematikken men ikke store feil. Oppgaven er ryddig skreven. |
+| 1 | Tilstrekkelig godt gjennomført. Alle spørsmål er besvarte eller så er nesten alle spørsmål besvarte OG det gis en god gjennomgang av problemer med ubesvarte oppgaver. Det går å følge resonnementene. Det gis økonomisk intuisjon. Det kan finnes små feil i matematikken men ikke store feil. Oppgaven er ryddig skreven. |
 | 0 | Ikke tilstrekkelig godt gjennomført. Ikke alle spørsmål er besvarte og studenten gir ikke en god gjennomgang av problemer med ubesvarte oppgaver ELLER det er svært vanskelig å følge resonnementene i oppgaven ELLER det gis ikke økonomisk intuisjon ELLER det finnes store feil i matematikken, og/eller den økonomiske intuisjonen. |
 
 
@@ -82,7 +82,7 @@ Eksaminator vil evaluere presentasjonen av hvert læringsmål på en skala mello
 **Tabell 2.** Regel for poengsetting muntlig eksamen
 
 | Poeng | Beskrivelse |
-| ----- | ------------- |
+| ----- | ----------- |
 | 2 | Svært god presentasjon. Kandidatens klarer å presentere læringsmålet uten ledende spørsmål fra eksaminator OG Presentasjonen dekker alle sentrale temaer og konklusjoner OG Kandidaten viser at den har økonomisk forståelse for sentrale temaer og konklusjoner OG Presentasjonen er helt eller i stort sett helt korrekt. Hvis presentasjonen inneholder feil er disse små og få. |
 | 1 | Tilstrekkelig god presentasjon. Kandidaten klarer å presentere læringsmålet med få ledende spørsmål fra eksaminator OG Presentasjonen dekker de fleste sentrale temaer og konklusjoner OG Presentasjonen kan ha noen feil, men ikke fundamentale feil. |
 |0|Ikke tilstrekkelig god presentasjon. Kandidaten klarer ikke å presentere læringsmålet, eller klarer kun å presentere læringsmålet med flere ledende spørsmål fra eksaminator ELLER Presentasjonen mangler flere sentrale temaer og/eller konklusjoner ELLER Presentasjonen inneholder fundamentale feil. |
