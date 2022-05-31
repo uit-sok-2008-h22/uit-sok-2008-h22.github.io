@@ -44,7 +44,7 @@ Telefon: +47 77 62 32 02
 
 ## Innlevering
 - [Lorem ipsum](timeplan.md)
-- [Lorem ipsum](timeplan.md)
+- [Innlevering 2](innlevering2.md)
 - [Lorem ipsum](timeplan.md)
 - [Lorem ipsum](timeplan.md)
 - [Lorem ipsum](timeplan.md)
