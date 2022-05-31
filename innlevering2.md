@@ -33,12 +33,15 @@ Anta at markedets etterspørsel på arbeid er gitt ved $w=120-0.02L$, der $w$ er
 
 ## Utfordring 2.3
 
-* Data: union_unempl_2015_2019.csv (lenke til data)
+* Data: union_unempl_2015_2019.csv (lenke)
+* Script: script_uft2.3.R (lenke)
+* Variabel beskrivelser:
+  * Codebook-OECD-AIAS-ICTWSS.pdf (lenke)
+  * Dokument 2 (lenke)
+  
+Datasetet union_unempl_2015_2019.csv inneholder blant annet data over arbeidsledighet (unempl) i prosent, fagforeningsdensitet (du), grad av sentralisering i lønnsforhandlinger, og andelen arbeidere vars lønnsnivå bestemmes av kollektive avtaler (adjcov) for land i OECD årene 2015-2019.
 
-Datasetet inneholder blant annet data over arbeidsledighet (unempl) i prosent, fagforeningsdensitet (du), grad av sentralisering i lønnsforhandlinger, og andelen arbeidere vars lønnsnivå bestemmes av kollektive avtaler (adjcov) for land i OECD årene 2015-2019.
+1. Lag to grafer som beskriver sammenhengen mellom arbeidsledighet og makten til fagforeninger. Beskriv hva du ser i grafene.
+2. I den nordiske modellen inngår sterke fagforeninger. Arbeidsledigheten i de nordiske landene er relativt lav. Diskuter hvordan dette kan komme seg.
 
-
-
-
-$x\cdot (1+\frac{r}{n})^{T\cdot n}$
 
