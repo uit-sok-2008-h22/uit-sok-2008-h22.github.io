@@ -63,9 +63,6 @@ Fristene til hver innlevering er spesifisert i timeplanen.
 Du finner detaljert støtte til utfordringene her (lenke)
 
 
-**Tabell 1.** Regel for poengsetting av utfordringer
-
-
 | Poeng | Beskrivelse |
 | ----- |------------ |
 | 2 | Svært godt gjennomført. Alle spørsmål er fullstendig besvarte. Det er enkelt å følge resonnementene. Det gis god økonomisk intuisjon til alle oppgaver. Matematikken er i stort korrekt og enkel å følge. Det finnes ikke store feil. Oppgaven er ryddig skreven.|
