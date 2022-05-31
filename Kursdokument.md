@@ -62,6 +62,7 @@ Fristene til hver innlevering er spesifisert i timeplanen.
 
 Du finner detaljert støtte til utfordringene her (lenke)
 
+**Tabell 1.** Regel for poengsetting av utfordringer
 
 | Poeng | Beskrivelse |
 | ----- |------------ |
