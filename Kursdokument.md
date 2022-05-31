@@ -56,13 +56,15 @@ For alle oppgaver gjelder at studenten skal gi økonomisk intuisjon (forklaring)
 Etter hver innlevering vil vi avsette tid til tilbakemelding på utfordringene. Denne tilbakemelding kan enten gis i samband med en forelesning, eller ved et separat tilfelle. 
 
 
-Hver enkel av de 6 innleveringsoppgave består av 2 «utfordringer». Enhver utfordring kan gi 0 til 2 poeng. Utfordringene blir bedømt i henhold til regelen i Tabell 1. Totalt kan altså innleveringene gi 24 poeng (6 innleveringer à 2x2 poeng). 
+Enhver innlevering kan gi 0 til 2 poeng. Totalt kan altså innleveringene gi 12 poeng (6 innleveringer à 2 poeng). Evalueringen blir bedømt i henhold til regelen i Tabell 1.
+
+**NB: Hver enkel av de 6 innleveringsoppgave består av flere «utfordringer». Envher av disse utfordringer må besvares. Hvis en av utfordringene ikke er besvart, eller er besvart svært ufullstendig eller felaktig, er det fullt mulig å få null poeng på innleveringen.**
 
 Fristene til hver innlevering er spesifisert i timeplanen.
 
 Du finner detaljert støtte til utfordringene her (lenke)
 
-**Tabell 1.** Regel for poengsetting av utfordringer
+**Tabell 1.** Regel for poengsetting av innleveringsoppgaver
 
 | Poeng | Beskrivelse |
 | ----- |------------ |
@@ -78,6 +80,8 @@ Det er tillatt å arbeide med å løse oppgavene sammen med andre. Hver enkelt s
 
 Du vil ha X minutter på deg på den muntlige eksamen. 
 Eksaminator vil evaluere presentasjonen av hvert læringsmål på en skala mellom null og to. Den muntlige eksamen kan maksimalt gi 12 (6x2) poeng. Poengsettingen vil skje i henhold til regelen i Tabell 2
+
+**NB: Her må vi legge inn informasjon om poeng og format**
 
 **Tabell 2.** Regel for poengsetting muntlig eksamen
 
