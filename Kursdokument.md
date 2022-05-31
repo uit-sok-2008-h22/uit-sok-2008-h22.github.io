@@ -64,11 +64,11 @@ Du finner detaljert støtte til utfordringene her (lenke)
 
 
 **Tabell 1.** Regel for poengsetting av utfordringer
-|Poeng | Beskrivelse|
--------|-------------|
-|2|Svært godt gjennomført. Alle spørsmål er fullstendig besvarte. Det er enkelt å følge resonnementene. Det gis god økonomisk intuisjon til alle oppgaver. Matematikken er i stort korrekt og enkel å følge. Det finnes ikke store feil. Oppgaven er ryddig skreven.|
+| Poeng | Beskrivelse |
+------- |------------- |
+| 2 | Svært godt gjennomført. Alle spørsmål er fullstendig besvarte. Det er enkelt å følge resonnementene. Det gis god økonomisk intuisjon til alle oppgaver. Matematikken er i stort korrekt og enkel å følge. Det finnes ikke store feil. Oppgaven er ryddig skreven.|
 |1| Tilstrekkelig godt gjennomført. Alle spørsmål er besvarte eller så er nesten alle spørsmål besvarte OG det gis en god gjennomgang av problemer med ubesvarte oppgaver. Det går å følge resonnementene. Det gis økonomisk intuisjon. Det kan finnes små feil i matematikken men ikke store feil. Oppgaven er ryddig skreven. |
-|0| Ikke tilstrekkelig godt gjennomført. Ikke alle spørsmål er besvarte og studenten gir ikke en god gjennomgang av problemer med ubesvarte oppgaver ELLER det er svært vanskelig å følge resonnementene i oppgaven ELLER det gis ikke økonomisk intuisjon ELLER det finnes store feil i matematikken, og/eller den økonomiske intuisjonen. |
+| 0 | Ikke tilstrekkelig godt gjennomført. Ikke alle spørsmål er besvarte og studenten gir ikke en god gjennomgang av problemer med ubesvarte oppgaver ELLER det er svært vanskelig å følge resonnementene i oppgaven ELLER det gis ikke økonomisk intuisjon ELLER det finnes store feil i matematikken, og/eller den økonomiske intuisjonen. |
 
 
 Det er tillatt å arbeide med å løse oppgavene sammen med andre. Hver enkelt student skal likvel skrive og levere inn sin utfordring individuelt. Det er ikke lov å levere inn helt identiske oppgaver. Vi bruker URKUND for å sjekke for plagiering. Vi er bevisst på at oppgavene vil være relativt lik og vil ta høyde for dette når vi evaluerer resultatene fra URKUND. 
@@ -80,10 +80,11 @@ Du vil ha X minutter på deg på den muntlige eksamen.
 Eksaminator vil evaluere presentasjonen av hvert læringsmål på en skala mellom null og to. Den muntlige eksamen kan maksimalt gi 12 (6x2) poeng. Poengsettingen vil skje i henhold til regelen i Tabell 2
 
 **Tabell 2.** Regel for poengsetting muntlig eksamen
-|Poeng| Beskrivelse |
-|-----|-------------|
-|2| Svært god presentasjon. Kandidatens klarer å presentere læringsmålet uten ledende spørsmål fra eksaminator OG Presentasjonen dekker alle sentrale temaer og konklusjoner OG Kandidaten viser at den har økonomisk forståelse for sentrale temaer og konklusjoner OG Presentasjonen er helt eller i stort sett helt korrekt. Hvis presentasjonen inneholder feil er disse små og få. |
-|1|Tilstrekkelig god presentasjon. Kandidaten klarer å presentere læringsmålet med få ledende spørsmål fra eksaminator OG Presentasjonen dekker de fleste sentrale temaer og konklusjoner OG Presentasjonen kan ha noen feil, men ikke fundamentale feil. |
+
+| Poeng | Beskrivelse |
+| ----- | ------------- |
+| 2 | Svært god presentasjon. Kandidatens klarer å presentere læringsmålet uten ledende spørsmål fra eksaminator OG Presentasjonen dekker alle sentrale temaer og konklusjoner OG Kandidaten viser at den har økonomisk forståelse for sentrale temaer og konklusjoner OG Presentasjonen er helt eller i stort sett helt korrekt. Hvis presentasjonen inneholder feil er disse små og få. |
+| 1 | Tilstrekkelig god presentasjon. Kandidaten klarer å presentere læringsmålet med få ledende spørsmål fra eksaminator OG Presentasjonen dekker de fleste sentrale temaer og konklusjoner OG Presentasjonen kan ha noen feil, men ikke fundamentale feil. |
 |0|Ikke tilstrekkelig god presentasjon. Kandidaten klarer ikke å presentere læringsmålet, eller klarer kun å presentere læringsmålet med flere ledende spørsmål fra eksaminator ELLER Presentasjonen mangler flere sentrale temaer og/eller konklusjoner ELLER Presentasjonen inneholder fundamentale feil. |
 
 ## Undervisning
