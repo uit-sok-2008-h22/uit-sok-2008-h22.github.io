@@ -57,7 +57,7 @@ Datasetet union_unempl_2015_2019.csv inneholder blant annet data over arbeidsled
 5. Definere dine symboler hvis du bruker andre symboler enn de vi bruker under kurset.
 6. Referere i teksten til de symboler som du analyserer, og beskriv dem i ord. F eks, en økning i arbeidstilbudet ($L^s$) fører til at…
 7. Forklare dine ligninger og utledninger. Det er viktig at det går å følge dine utledninger og beregninger. 
-8. Gi alltid økonomisk intuisjon (forklaring til dine svar). Det å skrive "Kurven skifter og vi går ifra A til B" er ikke tilstrekkelig. Et svar som gir økonomisk intuisjon forklarer effekten i økonomiske termer, f eks.; "Hvis innvandringen øker vil dette føre til at mengden arbeidere som er villige til å jobbe til en gitt timelønn øker, arbeidstilbudet ($L_^s$) øker. Ved likevektslønna $w_0$ finnes det nå arbeidere som ønsker jobb men som ikke har jobb. Dette fører til en press nedåt på lønna. Når lønna synker finnes det flere bedrifter som er villige å ansette. Sysselsettingen øker. Den nye likevekts lønna gis av $w_1$. Sysselsettingen i den nye likvekten gis av $L_1$" 
+8. Gi alltid økonomisk intuisjon (forklaring til dine svar). Det å skrive "Kurven skifter og vi går ifra A til B" er ikke tilstrekkelig. Et svar som gir økonomisk intuisjon forklarer effekten i økonomiske termer, f eks.; "Hvis innvandringen øker vil dette føre til at mengden arbeidere som er villige til å jobbe til en gitt timelønn øker, arbeidstilbudet ($L^s$) øker. Ved likevektslønna $w_0$ finnes det nå arbeidere som ønsker jobb men som ikke har jobb. Dette fører til en press nedåt på lønna. Når lønna synker finnes det flere bedrifter som er villige å ansette. Sysselsettingen øker. Den nye likevekts lønna gis av $w_1$. Sysselsettingen i den nye likvekten gis av $L_1$" 
 
 ### Ligninger
 Det er mulig å skrive ligninger i de fleste ordbehandlingsprogrammer. I word velger du «insert» og deretter «equation». Du får da opp en boks i teksten og en meny med symboler og funksjoner. Et tips er at «underscore» etter et tegn gir subscript hvis du trykker på mellomslag etterpå , og tegnet «’» gir superscript. 
@@ -83,8 +83,7 @@ Det går å lage tabeller ved bruk av en rekke verktøy, f.eks. Excel og R. Det 
  
  | Type | Referanse |
 |-------| ----------- |
-| Vitenskapelige artikler og working-papers
- | Acemoglu, D., Johnson, S., and Robinsom, J. (2001). The Colonial Origins of Comparative Development: An Empirical Investigation. *American Economic Review*, 91(5), pp. 1369-1401 |
+| Vitenskapelige artikler og working-papers | Acemoglu, D., Johnson, S., and Robinsom, J. (2001). The Colonial Origins of Comparative Development: An Empirical Investigation. *American Economic Review*, 91(5), pp. 1369-1401 |
 | Bøker | Lucas, R. E. (1976). Econometric Policy Evaluation: A Critique, in Brunner, K., and Metzer, A (eds), *The Phillips Curve and Labor Markets*, Carnegie Rochester Conference Series, New York, North Holland, pp. 19-46 |
 | Artikler i aviser | Weisman, J. (2015). Deal Reached on Fast-Track Authority for Obama on Trade Accord. *The New York Times*, p.A1 |
 | Artikler fra Internett | Messer, L. (2015). 'Fancy Nancy' Optioned by Disney Junior. [online] ABC News. Available at: http://abcnews.go.com/Entertainment/fancy-nancy-optioned-disney-junior-2017/story?id=29942496#.VRWbWJwmbs0.twitter (Accessed 31 Mar. 2015)|
