@@ -14,25 +14,25 @@ Lenke til innleveringsoppgave
 * NOU - 2021:2 - Kompetanse, aktivitet og inntektssikkring. Tiltak for økt sysselsetting
 
 ### Lenker til forelesningsnotater (oppdateres fortløpende)
-* Forelesning 1 - Introduksjon til sok-2008
-* Forelesning 2 - Barr, kap. 1-2
-* Forelesning 3a - Barr, kap. 3
-* Forelesning 3b - Barr, kap. 3
-* Forelesning 4 - Barr, kap 4-5
+* Forelesning 1.1 - Introduksjon til sok-2008
+* Forelesning 1.2 - Barr, kap. 1-2
+* Forelesning 1.3a - Barr, kap. 3
+* Forelesning 1.3b - Barr, kap. 3
+* Forelesning 1.4 - Barr, kap 4-5
 
 ### Lenker til video-forelesninger (oppdateres fortløpende)
-* Video 1 - Barr, kap. 1-2
-* Video 2 - 
-* Video 3
-* Video 4
+* Video 1.1 - Barr, kap. 1-2
+* Video 1.2
+* Video 1.3
+* Video 1.4
 
 ## Skjema Tema 1
 
 | Uke | Mandag | Tirsdag | Onsdag | Torsdag | Fredag |
 | --- | ------ | ------- | ------ | ------- | ------ |
-| 33 | Forelesning - introduksjon til SOK-2008 | Forelesning, Barr, kap. 1-2 | Video-forelesninger + Egen lesing Barr, kap. 1-2 |  | Seminar |
-| 34 | Forelesning, Barr, kap. 3 | Video-forelesninger + egen lesing, Barr, kap. 3 | Seminar | Forelesning, Barr kap. 3 | Video-forelesninger + Egen lesing, Barr kap. 3  |
-| 35| Seminar | | Forelesning, Barr, kap. 4-5 | Video-forelesninger + Egen lesing, Barr, kap. 4-5 | Seminar |
+| 33 | Forelesning 1 - introduksjon til SOK-2008 | Forelesning 1.2, Barr, kap. 1-2 | Video-forelesninger + Egen lesing Barr, kap. 1-2 |  | Seminar |
+| 34 | Forelesning 1.3a, Barr, kap. 3 | Video-forelesninger + egen lesing, Barr, kap. 3 | Seminar | Forelesning 1.3b, Barr kap. 3 | Video-forelesninger + Egen lesing, Barr kap. 3  |
+| 35| Seminar | | Forelesning 1.4, Barr, kap. 4-5 | Video-forelesninger + Egen lesing, Barr, kap. 4-5 | Seminar |
 | 36 | | **Innlevering 1**| | | |
 | 37 | | | **Feedback Innlevering 1** | | |
 
