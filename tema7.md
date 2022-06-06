@@ -1,0 +1,23 @@
+
+{% include top-box.html %} <!-- Kode for å inkludere boksen på toppen av siden. Se _config.yml for å gjøre endringer. -->
+{% include navbar.html %} <!-- Kode for navigasjonsmeny. Se navbar.html for å gjøre endringer. -->
+<!-- Gjør endringer under her -->
+
+# Tema 7 - Framtiden
+
+## Pensum
+### Bøker og annen litteratur
+* NOU - 2021:2 - Kompetanse, aktivitet og inntektssikkring. Tiltak for økt sysselsetting
+
+### Lenker til forelesningsnotater (oppdateres fortløpende)
+* Forelesning 7.1 - 
+* Forelesning 7.2 - 
+
+### Lenker til video-forelesninger (oppdateres fortløpende)
+
+## Skjema Tema 7
+
+| Uke | Mandag | Tirsdag | Onsdag | Torsdag | Fredag |
+| --- | ------ | ------- | ------ | ------- | ------ |
+| 46 |  |  | Forelesning 7.1 |  | Seminar|
+| 47 | Forelesning - oppsummering | | Forelesning - instruks muntlig eksamen| | |
