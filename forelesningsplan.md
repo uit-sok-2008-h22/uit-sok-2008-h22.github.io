@@ -6,11 +6,11 @@
 # Forelesnings- og seminarplan
 
 Undervisningen på SOK-2008 består av fysiske forelesninger, video-forelesninger og fysiske seminarer.
-F = Forelesing
-S = Seminar
-VF = Videoforelesning
-EL = Egen lesing
-Feed = Feedback på innleveringer
+* F = Forelesing
+* S = Seminar
+* VF = Videoforelesning
+* EL = Egen lesing
+* Feedback = Feedback på innleveringer (seminar)
 
 | Uke | FM<br>EM | Mandag | Tirsdag | Onsdag | Torsdag | Fredag |
 | --- |------     |------ | ------- | ------ | ------- | ------ |
