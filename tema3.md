@@ -5,7 +5,7 @@
 
 # Tema 3 - Sysselsetting og kompetanse 
 
-## Innlevering Tema 2
+## Innlevering Tema 3
 Lenke til innleveringsoppgave 
 
 ## Pensum
