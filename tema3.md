@@ -25,11 +25,12 @@ Lenke til innleveringsoppgave
 * Video 3.2
 
 
-## Skjema Tema 1
+## Skjema Tema 3
 
 | Uke | Mandag | Tirsdag | Onsdag | Torsdag | Fredag |
 | --- | ------ | ------- | ------ | ------- | ------ |
-| 39 | |  | Forelesning 3.1 | Video-forelesninger + Egen lesing, Boeri og van Ours, kap.1 | Seminar  |
-| 40 | Forelesning 2.2, Boeri og van Ours, kap. 3 | Video-forelesninger + Egen lesing, Boeri og van Ours, kap.3 | Seminar | | Seminar |
-| 41|  | **Innlevering 2**|  |  |  |
-| 42 | | | **Feedback Innlevering 2** | | |
+| 38 | |  | Forelesning 3.1 | Video-forelesninger + Egen lesing | Forelesning |
+| 39 | Seminar | | Forelesning | Video-forelesninger + Egen lesing | Seminar |
+| 40|  | **Innlevering 3**|  |  |  |
+| 41 | | | **Feedback Innlevering 3** | | |
+
