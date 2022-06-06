@@ -31,9 +31,10 @@ bskdhjkjdhgsdkjghjkshd
 
 | Uke | Mandag | Tirsdag | Onsdag | Torsdag | Fredag |
 | --- | ------ | ------- | ------ | ------- | ------ |
-| 33 | Forelesning 1 - introduksjon til SOK-2008 | Forelesning 1.2, Barr, kap. 1-2 | Video-forelesninger + Egen lesing Barr, kap. 1-2 |  | Seminar |
+| 33 || Forelesning 1 - introduksjon til SOK-2008 | Forelesning 1.2, Barr, kap. 1-2 | Video-forelesninger + Egen lesing Barr, kap. 1-2 | Seminar |
 | 34 | Forelesning 1.3a, Barr, kap. 3 | Video-forelesninger + egen lesing, Barr, kap. 3 | Seminar | Forelesning 1.3b, Barr kap. 3 | Video-forelesninger + Egen lesing, Barr kap. 3  |
 | 35| Seminar | | Forelesning 1.4, Barr, kap. 4-5 | Video-forelesninger + Egen lesing, Barr, kap. 4-5 | Seminar |
 | 36 | | **Innlevering 1**| | | |
 | 37 | | | **Feedback Innlevering 1** | | |
+
 
