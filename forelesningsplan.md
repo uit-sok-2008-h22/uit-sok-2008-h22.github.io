@@ -14,7 +14,7 @@ Undervisningen på SOK-2008 består av fysiske forelesninger, video-forelesninge
 
 | Uke | FM<br>EM | Mandag | Tirsdag | Onsdag | Torsdag | Fredag |
 | --- |------     |------ | ------- | ------ | ------- | ------ |
-| 33 | FM         |       |F1.1 - [Intro til sok-2008](kursdokument.md) og [Tema 1](tema1.md)| | VF + EL|S1.1 |
+| 33 | FM         |       |F1.1 - [Intro til sok-2008](Kursdokument.md) og [Tema 1](tema1.md)| | VF + EL|S1.1 |
 | 33 | EM         |       |         | F1.2  |   |       |
 | 34 | FM         |F1.3a  | VF + EL| S1.2| F1.3b | VF + EL |
 | 34 | EM         |       |         |        |         |        |
