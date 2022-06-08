@@ -14,16 +14,9 @@ Lenke til innleveringsoppgave
 * Barr, kap 10-11
 * NOU - 2021:2 - Kompetanse, aktivitet og inntektssikkring. Tiltak for økt sysselsetting
 
-### Lenker til forelesningsnotater (oppdateres fortløpende)
-* Forelesning 3.1 - Barr, kap.
-* Forelesning 3.2 - Barr, kap.
-* Forelesning 3.3 - Boeri og van Ours, kap. 
-* Forelesning 3.3 - Boeri og van Ours, kap. 
+### [Lenker til forelesningsnotater](forelesninger.md#f_t3) (oppdateres fortløpende)
 
 ### Lenker til video-forelesninger (oppdateres fortløpende)
-* Video 3.1
-* Video 3.2
-
 
 ## Skjema Tema 3
 
