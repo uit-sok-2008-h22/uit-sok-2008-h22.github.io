@@ -76,14 +76,7 @@ Det er tillatt å arbeide med å løse oppgavene sammen med andre. Hver enkelt s
 
 ### Muntlig eksamen
 
-{% include top-box.html %} <!-- Kode for å inkludere boksen på toppen av siden. Se _config.yml for å gjøre endringer. -->
-{% include navbar.html %} <!-- Kode for navigasjonsmeny. Se navbar.html for å gjøre endringer. -->
-<!-- Gjør endringer under her -->
-
-# Muntlig eksamen
-
-
-## Opplegg
+#### Opplegg
 På den muntlige eksamen vil du få besvare tre generelle spørsmål om kurset:
 
 1. *Hva er grundpilarene i den Nordiske modellen?*
@@ -96,7 +89,7 @@ Du kan få oppfølgningsspørsmål knyttet enhvert av de tre generelle spørsmå
 
 Hvis du kjører fast vil du få spørsmål som gir deg støtte. 
 
-## Evaluering
+#### Evaluering
 Andrea Mannberg og Mikko Moilanen er sensorer på den muntlige eksamen. Opplegg og evalueringskriterier til den muntlige eksamen har blitt godkjent av ekstern sensor i forvei. 
 
 Den muntlige eksamen kan maksimalt gi 12 poeng. Poengsettingen vil skje i henhold til regelen i Tabell 2
