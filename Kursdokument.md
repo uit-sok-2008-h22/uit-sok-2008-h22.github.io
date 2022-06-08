@@ -62,8 +62,6 @@ Enhver innlevering kan gi 0 til 2 poeng. Totalt kan altså innleveringene gi 12 
 
 Fristene til hver innlevering er spesifisert i timeplanen.
 
-Du finner detaljert støtte til utfordringene her (lenke)
-
 **Tabell 1.** Regel for poengsetting av innleveringsoppgaver
 
 | Poeng | Beskrivelse |
@@ -78,19 +76,39 @@ Det er tillatt å arbeide med å løse oppgavene sammen med andre. Hver enkelt s
 
 ### Muntlig eksamen
 
-Du vil ha X minutter på deg på den muntlige eksamen. 
-Eksaminator vil evaluere presentasjonen av hvert læringsmål på en skala mellom null og to. Den muntlige eksamen kan maksimalt gi 12 (6x2) poeng. Poengsettingen vil skje i henhold til regelen i Tabell 2
+{% include top-box.html %} <!-- Kode for å inkludere boksen på toppen av siden. Se _config.yml for å gjøre endringer. -->
+{% include navbar.html %} <!-- Kode for navigasjonsmeny. Se navbar.html for å gjøre endringer. -->
+<!-- Gjør endringer under her -->
 
-**NB: Her må vi legge inn informasjon om poeng og format**
+# Muntlig eksamen
+
+
+## Opplegg
+På den muntlige eksamen vil du få besvare tre generelle spørsmål om kurset:
+
+1. *Hva er grundpilarene i den Nordiske modellen?*
+2. *Hvilke er de økonomiske argumentene til den Nordiske modellen?*
+3. *Hvilke "utfordringer" eller mulige problemer er tilknyttet den Nordiske modellen?*
+
+Du forventes å selvstendig besvare disse tre spørsmålene på 20 minutter. 
+
+Du kan få oppfølgningsspørsmål knyttet enhvert av de tre generelle spørsmålene.
+
+Hvis du kjører fast vil du få spørsmål som gir deg støtte. 
+
+## Evaluering
+Andrea Mannberg og Mikko Moilanen er sensorer på den muntlige eksamen. Opplegg og evalueringskriterier til den muntlige eksamen har blitt godkjent av ekstern sensor i forvei. 
+
+Den muntlige eksamen kan maksimalt gi 12 poeng. Poengsettingen vil skje i henhold til regelen i Tabell 2
 
 **Tabell 2.** Regel for poengsetting muntlig eksamen
 
 
-| Poeng | Beskrivelse |
-| ----- | ----------- |
-| 2 | Svært god presentasjon. Kandidatens klarer å presentere læringsmålet uten ledende spørsmål fra eksaminator OG Presentasjonen dekker alle sentrale temaer og konklusjoner OG Kandidaten viser at den har økonomisk forståelse for sentrale temaer og konklusjoner OG Presentasjonen er helt eller i stort sett helt korrekt. Hvis presentasjonen inneholder feil er disse små og få. |
-| 1 | Tilstrekkelig god presentasjon. Kandidaten klarer å presentere læringsmålet med få ledende spørsmål fra eksaminator OG Presentasjonen dekker de fleste sentrale temaer og konklusjoner OG Presentasjonen kan ha noen feil, men ikke fundamentale feil. |
-|0|Ikke tilstrekkelig god presentasjon. Kandidaten klarer ikke å presentere læringsmålet, eller klarer kun å presentere læringsmålet med flere ledende spørsmål fra eksaminator ELLER Presentasjonen mangler flere sentrale temaer og/eller konklusjoner ELLER Presentasjonen inneholder fundamentale feil. |
+|   Poeng               | Karakter |Beskrivelse |
+| --------------------- |--------- | ----------- |
+| 9 - 12 poeng | A og B |Svært god presentasjon. Kandidatens klarer å gi utdypende svar på ALLE tre generelle spørsmålene og eventuelle oppfølgingsspørsmål uten støttespørsmål fra sensorene. Svarene dekker ALLE sentrale temaer og konklusjoner fra kurset og kandidaten viser at den har GOD økonomisk forståelse disse temaer og konklusjoner. I det tilfelle at svarene inneholder feil og mangler, er disse små og få. |
+| 5 - 9 poeng | C og D |Tilstrekkelig god presentasjon. Kandidaten klarer å gi svar på alle tre generelle spørsmålene og eventuelle oppfølgingsspørsmål med støttespørsmål fra sensorene. Svarene dekker DE FLESTE sentrale temaer og konklusjoner fra kurset og kandidaten viser at den har TILSTREKKELIG økonomisk forståelse for disse temaer og konklusjoner. Mangler og feil i besvarelsen er ikke av fundamental type.|
+| 2 - 4 poeng | E | Ikke tilstrekkelig god presentasjon. Kandidaten klarer ikke å besvare alle tre generelle spørsmål, eller klarer kun å svare med mange støttespørsmål fra sensorene. Besvarlesen mangler FLERE sentrale temaer og/eller konklusjoner ELLER Presentasjonen inneholder fundamentale feil. |
 
 ## Undervisning
 
