@@ -21,9 +21,9 @@ På seminarene knyttet til Tema 2 har du tilfelle å jobbe med oppgavene sammen 
 
 Litteratur:
 
-Forelesinger:
+[Forelesinger](video.md#f_t1)
 
-Videoer: 
+[Videoer](video.md#v_t1)
 
 ## Utfordring 1.1
 
