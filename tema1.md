@@ -13,18 +13,9 @@ Lenke til innleveringsoppgave
 * Barr, N. The Economics of the Welfare state. Kapittel 1 - 5
 * NOU - 2021:2 - Kompetanse, aktivitet og inntektssikkring. Tiltak for økt sysselsetting
 
-### Lenker til forelesningsnotater (oppdateres fortløpende)
-* Forelesning 1.1 - Introduksjon til sok-2008
-* Forelesning 1.2 - Barr, kap. 1-2
-* Forelesning 1.3a - Barr, kap. 3
-* Forelesning 1.3b - Barr, kap. 3
-* Forelesning 1.4 - Barr, kap 4-5
+### [Lenker til forelesningsnotater](forelesninger.md#f_t1) (oppdateres fortløpende)
 
 ### Lenker til video-forelesninger (oppdateres fortløpende)
-* Video 1.1 - Barr, kap. 1-2
-* Video 1.2
-* Video 1.3
-* Video 1.4
 
 ## Skjema Tema 1
 
