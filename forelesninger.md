@@ -5,37 +5,37 @@
 
 # Forelesninger
 Her finner du lenker til alle forelesnigner på kurset. Siden oppdateres fortløpende
-## Forelesninger [Tema 1](tema1.md)
+## Forelesninger [Tema 1](tema1.md)<a name="f_t1"></a>
 Her finner du forelesningsnotater lenket til Tema 1
 * <a href="F1.1.pdf"> F1.1</a>
 * <a href="F1.2.pdf"> F1.2</a>
 
-## Forelesninger [Tema 2](Tema2.md)
+## Forelesninger [Tema 2](Tema2.md)<a name="f_t2"></a>
 Her finner du forelesningsnotater lenket til Tema 2
 * <a href="F2.1.pdf"> F2.1</a>
 * <a href="F2.2.pdf"> F2.2</a>
 
-## Forelesninger [Tema 3](tema3.md)
+## Forelesninger [Tema 3](tema3.md)<a name="f_t3"></a>
 Her finner du forelesningsnotater lenket til Tema 3
 * <a href="F3.1.pdf"> F3.1</a>
 * <a href="F3.2.pdf"> F3.2</a>
 
-## Forelesninger [Tema 4](tema4.md)
+## Forelesninger [Tema 4](tema4.md)<a name="f_t4"></a>
 Her finner du forelesningsnotater lenket til Tema 4
 * <a href="F4.1.pdf"> F4.1</a>
 * <a href="F4.2.pdf"> F4.2</a>
 
-## Forelesninger [Tema 5](tema5.md)
+## Forelesninger [Tema 5](tema5.md)<a name="f_t5"></a>
 Her finner du forelesningsnotater lenket til Tema 5
 * <a href="F5.1.pdf"> F5.1</a>
 * <a href="F5.2.pdf"> F5.2</a>
 
-## Forelesninger [Tema 6](tema6.md)
+## Forelesninger [Tema 6](tema6.md)<a name="f_t6"></a>
 Her finner du forelesningsnotater lenket til Tema 6
 * <a href="F6.1.pdf"> F6.1</a>
 * <a href="F6.2.pdf"> F6.2</a>
 
-## Forelesninger [Tema 7](tema7.md)
+## Forelesninger [Tema 7](tema7.md)<a name="f_t7"></a>
 Her finner du forelesningsnotater lenket til Tema 7
 * <a href="F7.1.pdf"> F7.1</a>
 * <a href="F7.2.pdf"> F7.2</a>
