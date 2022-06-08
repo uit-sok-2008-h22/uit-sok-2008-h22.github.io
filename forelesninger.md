@@ -7,8 +7,8 @@
 Her finner du lenker til alle forelesnigner på kurset. Siden oppdateres fortløpende
 ## Forelesninger Tema 1
 Her finner du forelesningsnotater lenket til Tema 1
-* <a href="F1.1.pdf"> - F1.2</a>
-* <a href="F1.2.pdf"> - F1.2</a>
+* <a href="F1.1.pdf"> F1.2</a>
+* <a href="F1.2.pdf"> F1.2</a>
 
 ## Forelesninger Tema 2
 Her finner du forelesningsnotater lenket til Tema 2
