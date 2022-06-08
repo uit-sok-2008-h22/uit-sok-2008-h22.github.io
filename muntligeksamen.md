@@ -4,14 +4,13 @@
 
 # Muntlig eksamen
 
-Du vil ha X minutter på deg på den muntlige eksamen. 
 
 ## Opplegg
 På den muntlige eksamen vil du få besvare tre generelle spørsmål om kurset:
 
-1. Hva er grundpilarene i den Nordiske modellen?
-2. Hvilke er de økonomiske argumentene til den Nordiske modellen?
-3. Hvilke "utfordringer" eller mulige problemer er tilknyttet den Nordiske modellen?
+1. *Hva er grundpilarene i den Nordiske modellen?*
+2. *Hvilke er de økonomiske argumentene til den Nordiske modellen?*
+3. *Hvilke "utfordringer" eller mulige problemer er tilknyttet den Nordiske modellen?*
 
 Du forventes å selvstendig besvare disse tre spørsmålene på 20 minutter. 
 
