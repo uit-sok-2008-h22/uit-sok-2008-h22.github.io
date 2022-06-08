@@ -9,9 +9,7 @@
 ### Bøker og annen litteratur
 * NOU - 2021:2 - Kompetanse, aktivitet og inntektssikkring. Tiltak for økt sysselsetting
 
-### Lenker til forelesningsnotater (oppdateres fortløpende)
-* Forelesning 7.1 - 
-* Forelesning 7.2 - 
+### [Lenker til forelesningsnotater](forelesninger.md#f_t7) (oppdateres fortløpende)
 
 ### Lenker til video-forelesninger (oppdateres fortløpende)
 
