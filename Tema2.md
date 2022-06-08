@@ -13,7 +13,7 @@ Lenke til innleveringsoppgave
 * Boeri og van Ours, kap. 1 og 3
 * NOU - 2021:2 - Kompetanse, aktivitet og inntektssikkring. Tiltak for økt sysselsetting
 
-### [Lenker til forelesningsnotater](forelesninger.md#f_t1) (oppdateres fortløpende)
+### [Lenker til forelesningsnotater](forelesninger.md#f_t2) (oppdateres fortløpende)
 * Forelesning 2.1 - Boeri og van Ours, kap. 1.
 * Forelesning 2.2 - Boeri og van Ours, kap. 3.
 
