@@ -7,7 +7,7 @@
 Her finner du lenker til alle forelesnigner på kurset (oppdateres fortløpende)
 ## Forelesninger Tema 1
 * F1.1
-* [F1.2](Assets/Poverty and Credit.pdf)
+* <a href="Assets/Poverty and Credit.pdf"> - F1.2</a>
 
 ## Forelesninger Tema 2
 
