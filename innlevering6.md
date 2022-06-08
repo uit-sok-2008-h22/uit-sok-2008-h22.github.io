@@ -17,7 +17,15 @@ Din utfordring er å løse oppgavene i dette dokumentet. Poengene fra utfordring
 Du finner detaljert informasjon og tips om hvordan skrive en god besvarelse nederst på denne siden.
 På seminarene knyttet til Tema 2 har du tilfelle å jobbe med oppgavene sammen med dine studentkolleger. Forelesere på kurset vil være tilstede for å svare på spørsmål. 
 
-Førberedelser og støtte: Kap. 1 i Boeri og van Ours, Forelesninger 2.1 og 2.2, og Videoer 2.1 -2.x
+
+**Førberedelser og støtte:**
+
+Litteratur:
+
+Forelesinger:
+
+Videoer:
+
 
 ## Utfordring 6.1
 
