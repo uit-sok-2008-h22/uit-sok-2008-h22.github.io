@@ -15,7 +15,7 @@ Lenke til innleveringsoppgave
 
 ### [Lenker til forelesningsnotater](forelesninger.md#f_t2) (oppdateres fortløpende)
 
-### Lenker til video-forelesninger (oppdateres fortløpende)
+### [Lenker til video-forelesninger](video.md#v_t2) (oppdateres fortløpende)
 
 
 ## Skjema Tema 1
