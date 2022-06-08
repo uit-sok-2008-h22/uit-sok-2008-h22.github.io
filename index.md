@@ -24,34 +24,36 @@ Epost: mikko.moilainen@uit.no
 Telefon: +47 77 62 32 02
 
 ## Pensum
-[Barr N. The Economics of the Welfare State, 6th Edition, Oxford University Press](https://www.akademika.no/9780198748588/pedagogikk-og-samfunnsvitenskap/samfunnsokonomi/economics-welfare-state)
+- [Barr N. The Economics of the Welfare State, 6th Edition, Oxford University Press](https://www.akademika.no/9780198748588/pedagogikk-og-samfunnsvitenskap/samfunnsokonomi/economics-welfare-state)
 
-[Boeri, T. & van Ours, J. The Economics of Imperfect Labor Markets, Third Edition, Princeton](https://www.akademika.no/economics-imperfect-labor-markets-third-edition/ours-tito-boeri-jan-van/9780691208824)
+- [Boeri, T. & van Ours, J. The Economics of Imperfect Labor Markets, Third Edition, Princeton](https://www.akademika.no/economics-imperfect-labor-markets-third-edition/ours-tito-boeri-jan-van/9780691208824)
 
 ## Forelesningsplan
 - [Timeplan](https://timeplan.uit.no/emne_timeplan.php?sem=22h&module=SOK-2008-1#week=33-52)
-- Innhold
-  - [Tema 1 - Velferdsteori og den Nordiske modellen](tema1.md)
-  - [Tema 2 - Introduksjon til arbeidsmarkedsøkonomi](Tema2.md)
+- [Innhold](Kursdokument.md)
+  - [Tema 1](tema1.md)
+  - [Tema 2](Tema2.md)
+  - [Tema 3](tema3.md)
+  - [Tema 4](tema4.md)
+  - [Tema 5](tema5.md)
+  - [Tema 6](tema6.md)
+  - [Tema 7](tema7.md)  
 - Ressurser
-  - Pensum
-  - Notater
-  - Video
-  - Øvinger
-  - Kode
-  - Lenke til Jupyter
+  - [Notater](forlesninger.md)
+  - [Video](video.md)
   - FAQ
 
 ## Innlevering
+### [Frister](forelesningsplan.md)
+### Oppgaver
+- [Innlevering 1](innlevering1.md)
 - [Innlevering 2](innlevering2.md)
 - [Innlevering 3](innlevering3.md)
-
+- [Innlevering 4](innlevering4.md)
+- [Innlevering 5](innlevering5.md)
+- [Innlevering 6](innlevering6.md)
 
 ## FAQ
 
 ## Kursevaluering
-- [Lorem ipsum](timeplan.md)
-- [Lorem ipsum](timeplan.md)
 
-## Equations
-$x\cdot (1+\frac{r}{n})^{T\cdot n}$
