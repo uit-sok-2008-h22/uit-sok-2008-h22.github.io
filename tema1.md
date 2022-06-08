@@ -7,7 +7,6 @@
 
 ## Innlevering Tema 1
 Lenke til innleveringsoppgave 
-bskdhjkjdhgsdkjghjkshd
 
 ## Pensum
 ### Bøker og annen litteratur
