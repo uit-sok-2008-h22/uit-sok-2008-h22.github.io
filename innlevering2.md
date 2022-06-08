@@ -22,9 +22,9 @@ På seminarene knyttet til Tema 2 har du tilfelle å jobbe med oppgavene sammen 
 
 Litteratur:
 
-Forelesinger:
+[Forelesinger](video.md#f_t2)
 
-Videoer:
+[Videoer](video.md#v_t2)
 
 ## Utfordring 2.1
 
