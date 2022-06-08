@@ -29,9 +29,13 @@ Den muntlige eksamen kan maksimalt gi 12 poeng. Poengsettingen vil skje i henhol
 
 | Poeng | Beskrivelse |
 | ----- | ----------- |
-| 2 | Svært god presentasjon. Kandidatens klarer å presentere læringsmålet uten ledende spørsmål fra eksaminator OG Presentasjonen dekker alle sentrale temaer og konklusjoner OG Kandidaten viser at den har økonomisk forståelse for sentrale temaer og konklusjoner OG Presentasjonen er helt eller i stort sett helt korrekt. Hvis presentasjonen inneholder feil er disse små og få. |
-| 1 | Tilstrekkelig god presentasjon. Kandidaten klarer å presentere læringsmålet med få ledende spørsmål fra eksaminator OG Presentasjonen dekker de fleste sentrale temaer og konklusjoner OG Presentasjonen kan ha noen feil, men ikke fundamentale feil. |
-|0|Ikke tilstrekkelig god presentasjon. Kandidaten klarer ikke å presentere læringsmålet, eller klarer kun å presentere læringsmålet med flere ledende spørsmål fra eksaminator ELLER Presentasjonen mangler flere sentrale temaer og/eller konklusjoner ELLER Presentasjonen inneholder fundamentale feil. |
+| 9 - 12 poeng (A og B) | 
+Svært god presentasjon. Kandidatens klarer å gi utdypende svar på alle tre generelle spørsmålene og eventuelle oppfølgingsspørsmål uten støttespørsmål fra eksaminator. Svarene dekker alle sentrale temaer og konklusjoner og kandidaten viser at den har økonomisk forståelse disse temaer og konklusjoner. I det tilfelle at svarene inneholder feil og mangler, er disse små og få. |
+| 5 - 9 poeng (C og D |
+Tilstrekkelig god presentasjon. Kandidaten klarer å presentere læringsmålet med få ledende spørsmål fra eksaminator OG Presentasjonen dekker de fleste sentrale temaer og konklusjoner OG Presentasjonen kan ha noen feil, men ikke fundamentale feil.|
+| 2 - 4 poeng (E)|
+Ikke tilstrekkelig god presentasjon. Kandidaten klarer ikke å presentere læringsmålet, eller klarer kun å presentere læringsmålet med flere ledende spørsmål fra eksaminator ELLER Presentasjonen mangler flere sentrale temaer og/eller konklusjoner ELLER Presentasjonen inneholder fundamentale feil. |
+
 
 
 
