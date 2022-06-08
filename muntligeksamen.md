@@ -27,8 +27,8 @@ Den muntlige eksamen kan maksimalt gi 12 poeng. Poengsettingen vil skje i henhol
 **Tabell 2.** Regel for poengsetting muntlig eksamen
 
 
-|   Poeng   | Beskrivelse |
-| --------- | ----------- |
+|   Poeng               | Beskrivelse |
+| --------------------- | ----------- |
 | 9 - 12 poeng (A og B) | Svært god presentasjon. Kandidatens klarer å gi utdypende svar på ALLE tre generelle spørsmålene og eventuelle oppfølgingsspørsmål uten støttespørsmål fra sensorene. Svarene dekker ALLE sentrale temaer og konklusjoner fra kurset og kandidaten viser at den har GOD økonomisk forståelse disse temaer og konklusjoner. I det tilfelle at svarene inneholder feil og mangler, er disse små og få. |
 | 5 - 9 poeng (C og D)| Tilstrekkelig god presentasjon. Kandidaten klarer å gi svar på alle tre generelle spørsmålene og eventuelle oppfølgingsspørsmål med støttespørsmål fra sensorene. Svarene dekker DE FLESTE sentrale temaer og konklusjoner fra kurset og kandidaten viser at den har TILSTREKKELIG økonomisk forståelse for disse temaer og konklusjoner. Mangler og feil i besvarelsen er ikke av fundamental type.|
 | 2 - 4 poeng (E)| Ikke tilstrekkelig god presentasjon. Kandidaten klarer ikke å besvare alle tre generelle spørsmål, eller klarer kun å svare med mange støttespørsmål fra sensorene. Besvarlesen mangler FLERE sentrale temaer og/eller konklusjoner ELLER Presentasjonen inneholder fundamentale feil. |
