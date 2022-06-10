@@ -73,6 +73,8 @@ Fristene til hver innlevering er spesifisert i timeplanen.
 
 Det er tillatt å arbeide med å løse oppgavene sammen med andre. Hver enkelt student skal likvel skrive og levere inn sin utfordring individuelt. Det er ikke lov å levere inn helt identiske oppgaver. Vi bruker URKUND for å sjekke for plagiering. Vi er bevisst på at oppgavene vil være relativt lik og vil ta høyde for dette når vi evaluerer resultatene fra URKUND. 
 
+Karakteren på mappen avhenger total poeng alle innleveringer. 
+
 
 ### Muntlig eksamen
 
