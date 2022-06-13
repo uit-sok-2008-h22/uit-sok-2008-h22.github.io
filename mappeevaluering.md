@@ -37,10 +37,6 @@ Karakteren på mappen avhenger total poeng alle innleveringer.
 - [Innlevering 5](innlevering5.md)
 - [Innlevering 6](innlevering6.md)
 
-{% include top-box.html %} <!-- Kode for å inkludere boksen på toppen av siden. Se _config.yml for å gjøre endringer. -->
-{% include navbar.html %} <!-- Kode for navigasjonsmeny. Se navbar.html for å gjøre endringer. -->
-<!-- Gjør endringer under her -->
-
 ## Tips og triks for hvordan du skriver en god besvarelse
 
 ### Generelle tips
