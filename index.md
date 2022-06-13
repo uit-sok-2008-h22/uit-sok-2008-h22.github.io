@@ -29,11 +29,9 @@ Formålet med kurset SOK-2008 «Den Nordiske modellen» er å gi innsikt i sentr
 - [Norges offentlige utredninger (NOU) 2021:2. Kompetanse, aktivitet og inntektssikring - tiltak for økt sysselsetting](https://www.regjeringen.no/contentassets/2943e48dbf4544b8b5f456c850dcccbe/no/pdfs/nou202120210002000dddpdfs.pdf)
 
 ## Innhold
-[Kursdokument](Kursdokument.md)
-
-[Timeplan](https://timeplan.uit.no/emne_timeplan.php?sem=22h&module=SOK-2008-1#week=33-52)
-
-[Frister](forelesningsplan.md)
+- [Kursdokument](Kursdokument.md)
+- [Timeplan](https://timeplan.uit.no/emne_timeplan.php?sem=22h&module=SOK-2008-1#week=33-52)
+- [Frister](forelesningsplan.md)
 
 <details>
   <summary>Eksaminasjon</summary>
@@ -47,7 +45,9 @@ Formålet med kurset SOK-2008 «Den Nordiske modellen» er å gi innsikt i sentr
     - [Innlevering 5](innlevering5.md)
     - [Innlevering 6](innlevering6.md)
   - [Frister](forelesningsplan.md)
-  </details>
+  
+</details>
+
 <details>
 <summary>Temaer</summary>
 
@@ -61,9 +61,9 @@ Formålet med kurset SOK-2008 «Den Nordiske modellen» er å gi innsikt i sentr
 
 </details> 
 
-Ressurser
-- [Notater](forlesninger.md)
-- [Video](video.md)
+- Ressurser
+  - [Notater](forlesninger.md)
+  - [Video](video.md)
 
 ## FAQ
 
