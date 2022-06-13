@@ -32,14 +32,16 @@ Du finner detaljert informasjon om opplegget på kurset [her](Kursdokument.md)
 
 ## Forelesningsplan
 - [Timeplan](https://timeplan.uit.no/emne_timeplan.php?sem=22h&module=SOK-2008-1#week=33-52)
-- [Innhold](Kursdokument.md)
+- <details>
+  <summary>Innhold</summary>
+- [Kursdokument](Kursdokument.md)
   - [Tema 1](tema1.md)
   - [Tema 2](Tema2.md)
   - [Tema 3](tema3.md)
   - [Tema 4](tema4.md)
   - [Tema 5](tema5.md)
   - [Tema 6](tema6.md)
-  - [Tema 7](tema7.md)  
+  - [Tema 7](tema7.md)</details> 
 - Ressurser
   - [Notater](forlesninger.md)
   - [Video](video.md)
