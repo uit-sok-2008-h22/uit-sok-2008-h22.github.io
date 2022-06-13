@@ -5,9 +5,9 @@
 # Mappeevaluering
 Mappeevalueringen består av 6 innleveringer. Hver innlevering er knyttet til en modul (eller tema) i kurset, og til spesielle kapitler i pensumbøkene. 
 Noen av oppgavene er matematiske, andre er mer rettet mot diskusjon, og i noen av dem skal studenten bruke data og statistisk analyse. 
-For alle oppgaver gjelder at studenten skal gi økonomisk intuisjon (forklaring) til sine resultater. 
+For alle oppgaver gjelder at du må gi økonomisk intuisjon (forklaring) til dine resultater. 
 
-Etter hver innlevering vil vi avsette tid til tilbakemelding på utfordringene. Denne tilbakemelding kan enten gis i samband med en forelesning, eller ved et separat tilfelle. 
+Etter hver innlevering vil vi avsette tid til tilbakemelding på innleveringene, se [forelesningsplanen](forelesningsplan.md)
 
 
 Enhver innlevering kan gi 0 til 2 poeng. Totalt kan altså innleveringene gi 12 poeng (6 innleveringer à 2 poeng). Evalueringen blir bedømt i henhold til regelen i Tabell 1.
