@@ -3,7 +3,7 @@
 <!-- Gjør endringer under her -->
 
 # Mappeevaluering
-Mappeevalueringen består av 6 innleveringer (utfordringer)Hver innlevering er knyttet til en modul (eller tema) i kurset, og til spesielle kapitler i pensumbøkene. 
+Mappeevalueringen består av 6 innleveringer. Hver innlevering er knyttet til en modul (eller tema) i kurset, og til spesielle kapitler i pensumbøkene. 
 Noen av oppgavene er matematiske, andre er mer rettet mot diskusjon, og i noen av dem skal studenten bruke data og statistisk analyse. 
 For alle oppgaver gjelder at studenten skal gi økonomisk intuisjon (forklaring) til sine resultater. 
 
