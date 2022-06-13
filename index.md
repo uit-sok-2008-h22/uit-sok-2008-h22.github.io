@@ -11,17 +11,12 @@ Formålet med kurset SOK-2008 «Den Nordiske modellen» er å gi innsikt i sentr
 Du finner detaljert informasjon om opplegget på kurset [her](Kursdokument.md)
 
 ## Faglærerinfo
-<strong>[Andrea Mannberg](https://uit.no/ansatte/andrea.mannberg)</strong> (Fagansvar) - professor i samfunnsøkonomi
-
-Epost: andrea.mannberg@uit.no
-
-Telefon: +47 77 64 60 92
-
-<strong>[Mikko Moilainen](https://en.uit.no/ansatte/person?p_document_id=200602)</strong> - professor i sammfunnsøkonomi.
-
-Epost: mikko.moilainen@uit.no
-
-Telefon: +47 77 62 32 02
+- <strong>[Andrea Mannberg](https://uit.no/ansatte/andrea.mannberg)</strong> (Fagansvar) - professor i samfunnsøkonomi
+  - Epost: andrea.mannberg@uit.no
+  - Telefon: +47 77 64 60 92
+- <strong>[Mikko Moilainen](https://en.uit.no/ansatte/person?p_document_id=200602)</strong> - professor i sammfunnsøkonomi.
+  - Epost: mikko.moilainen@uit.no
+  - Telefon: +47 77 62 32 02
 
 ## Studieadministrasjon
 - [Tore Kanck-Jørgensen](https://uit.no/ansatte/tore.jorgensen)
