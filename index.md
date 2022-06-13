@@ -38,8 +38,6 @@ Formålet med kurset SOK-2008 «Den Nordiske modellen» er å gi innsikt i sentr
   
   + [Muntlig eksamen](muntligeksamen.md)
   + Mappeevaluering
-    + Innlevering
-    + Innlevering
     + [Innlevering 1](innlevering1.md)
     + [Innlevering 2](innlevering2.md)
     + [Innlevering 3](innlevering3.md)
@@ -52,7 +50,7 @@ Formålet med kurset SOK-2008 «Den Nordiske modellen» er å gi innsikt i sentr
 
 <details>
 <summary>Temaer</summary>
-
+<a href="tema1.html"> - Tema 1</a>
 - [Tema 1](tema1.md)
 - [Tema 2](Tema2.md)
 - [Tema 3](tema3.md)
