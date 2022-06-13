@@ -37,13 +37,14 @@ Formålet med kurset SOK-2008 «Den Nordiske modellen» er å gi innsikt i sentr
   <summary>Eksaminasjon</summary>
   
   + [Muntlig eksamen](muntligeksamen.md)
-  + Mappeevaluering
-    + [Innlevering 1](innlevering1.md)
-    + [Innlevering 2](innlevering2.md)
-    + [Innlevering 3](innlevering3.md)
-    + [Innlevering 4](innlevering4.md)
-    + [Innlevering 5](innlevering5.md)
-    + [Innlevering 6](innlevering6.md)
+  + Mappeevaluering<br>
+    + <a href="innlevering1.html">Innlevering 1</a><br>
+    + <a href="innlevering1.html">Innlevering 2</a><br>
+    + <a href="innlevering1.html">Innlevering 3</a><br>
+    + <a href="innlevering1.html">Innlevering 4</a><br>
+    + <a href="innlevering1.html">Innlevering 5</a><br>
+    + <a href="innlevering1.html">Innlevering 6</a><br>
+    + <a href="innlevering1.html">Innlevering 7</a><br>
   + [Frister](forelesningsplan.md)
   
 </details>
@@ -51,13 +52,12 @@ Formålet med kurset SOK-2008 «Den Nordiske modellen» er å gi innsikt i sentr
 <details>
 <summary>Temaer</summary>
 <a href="tema1.html"> - Tema 1</a>
-- [Tema 1](tema1.md)
-- [Tema 2](Tema2.md)
-- [Tema 3](tema3.md)
-- [Tema 4](tema4.md)
-- [Tema 5](tema5.md)
-- [Tema 6](tema6.md)
-- [Tema 7](tema7.md)
+<a href="Tema2.html"> - Tema 2</a>
+<a href="tema3.html"> - Tema 3</a>
+<a href="tema4.html"> - Tema 4</a>
+<a href="tema5.html"> - Tema 5</a>
+<a href="tema6.html"> - Tema 6</a>
+<a href="tema7.html"> - Tema 7</a>
 
 </details> 
 
