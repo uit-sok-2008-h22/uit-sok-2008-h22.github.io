@@ -50,14 +50,14 @@ Formålet med kurset SOK-2008 «Den Nordiske modellen» er å gi innsikt i sentr
 </details>
 
 <details>
-<summary>Temaer</summary><br>
-<a href="tema1.html"> - Tema 1</a><br>
-<a href="Tema2.html"> - Tema 2</a><br>
-<a href="tema3.html"> - Tema 3</a><br>
-<a href="tema4.html"> - Tema 4</a><br>
-<a href="tema5.html"> - Tema 5</a><br>
-<a href="tema6.html"> - Tema 6</a><br>
-<a href="tema7.html"> - Tema 7</a>
+<summary>Temaer</summary>
+- <a href="tema1.html">Tema 1</a><br>
+- <a href="Tema2.html">Tema 2</a><br>
+- <a href="tema3.html">Tema 3</a><br>
+- <a href="tema4.html">Tema 4</a><br>
+- <a href="tema5.html">Tema 5</a><br>
+- <a href="tema6.html">Tema 6</a><br>
+- <a href="tema7.html">Tema 7</a>
 
 </details> 
 
