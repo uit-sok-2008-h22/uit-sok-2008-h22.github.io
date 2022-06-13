@@ -33,40 +33,14 @@ Formålet med kurset SOK-2008 «Den Nordiske modellen» er å gi innsikt i sentr
 - Eksaminasjon
   - [Mappeevaluering](mappeevaluering.md)
   - [Muntligeksamen](muntligeksamen.md)
+- [Temaer (Moduler)](temaer.md)
 - [Timeplan](https://timeplan.uit.no/emne_timeplan.php?sem=22h&module=SOK-2008-1#week=33-52)
-- [Frister](forelesningsplan.md)
+- [Forelesningsplan med frister](forelesningsplan.md)
 ## [Innleveringer](mappeevaluering.md#i_t_6)
-<details>
-  <summary>Eksaminasjon</summary>
-  
-- <a href="muntligeksamen.html">Muntlig eksamen </a><br>
--  Mappeevaluering<br>
-    <a href="innlevering1.html">  * Innlevering 1</a><br>
-    <a href="innlevering1.html">  * Innlevering 2</a><br>
-    <a href="innlevering1.html">  * Innlevering 3</a><br>
-    <a href="innlevering1.html">  * Innlevering 4</a><br>
-    <a href="innlevering1.html">  * Innlevering 5</a><br>
-    <a href="innlevering1.html">  * Innlevering 6</a><br>
-    <a href="innlevering1.html">  * Innlevering 7</a><br>
-- <a href="forelesningsplan.html">Forelesningsplan og frister </a>
-  
-</details>
 
-<details>
-<summary>Temaer</summary>
-- <a href="tema1.html">Tema 1</a><br>
-- <a href="Tema2.html">Tema 2</a><br>
-- <a href="tema3.html">Tema 3</a><br>
-- <a href="tema4.html">Tema 4</a><br>
-- <a href="tema5.html">Tema 5</a><br>
-- <a href="tema6.html">Tema 6</a><br>
-- <a href="tema7.html">Tema 7</a>
-
-</details> 
-
-- Ressurser
-  - [Notater](forlesninger.md)
-  - [Video](video.md)
+## Ressurser
+- [Notater](forlesninger.md)
+- [Video](video.md)
 
 ## FAQ
 
