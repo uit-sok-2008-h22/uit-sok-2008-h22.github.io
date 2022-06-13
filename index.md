@@ -36,7 +36,9 @@ Formålet med kurset SOK-2008 «Den Nordiske modellen» er å gi innsikt i sentr
 - [Temaer (Moduler)](temaer.md)
 - [Timeplan](https://timeplan.uit.no/emne_timeplan.php?sem=22h&module=SOK-2008-1#week=33-52)
 - [Forelesningsplan med frister](forelesningsplan.md)
-## [Innleveringer](mappeevaluering.md#i_t_6)
+
+## Innleveringer
+- [Innleveringer 1-6](mappeevaluering.md#i_t_6)
 
 ## Ressurser
 - [Notater](forlesninger.md)
