@@ -8,8 +8,6 @@ På innføringskursene i mikroøkonomien lærer man at samfunnets velferd blir m
 
 Formålet med kurset SOK-2008 «Den Nordiske modellen» er å gi innsikt i sentrale trekk ved den nordiske samfunnsmodellen, og å gi en forståelse av offentlig inngrep i økonomien og innblikk i velferdsøkonomiske problemstillinger. Det vil bli lagt spesiell vekt på de teoretiske argumentene bak velferdsordningenes innretning og omfang og på de insentivproblemene som oppstår i skjæringspunktet mellom velferdsstat og marked.
 
-Du finner detaljert informasjon om opplegget på kurset [her](Kursdokument.md)
-
 ## Faglærerinfo
 - <strong>[Andrea Mannberg](https://uit.no/ansatte/andrea.mannberg)</strong> (Fagansvar) - professor i samfunnsøkonomi
   - Epost: andrea.mannberg@uit.no
@@ -30,32 +28,42 @@ Du finner detaljert informasjon om opplegget på kurset [her](Kursdokument.md)
 - [Boeri, T. & van Ours, J. The Economics of Imperfect Labor Markets, Third Edition, Princeton](https://www.akademika.no/economics-imperfect-labor-markets-third-edition/ours-tito-boeri-jan-van/9780691208824)
 - [Norges offentlige utredninger (NOU) 2021:2. Kompetanse, aktivitet og inntektssikring - tiltak for økt sysselsetting](https://www.regjeringen.no/contentassets/2943e48dbf4544b8b5f456c850dcccbe/no/pdfs/nou202120210002000dddpdfs.pdf)
 
-## Forelesningsplan
-- [Timeplan](https://timeplan.uit.no/emne_timeplan.php?sem=22h&module=SOK-2008-1#week=33-52)
-- <details>
-  <summary>Innhold</summary>
-- [Kursdokument](Kursdokument.md)
-  - [Tema 1](tema1.md)
-  - [Tema 2](Tema2.md)
-  - [Tema 3](tema3.md)
-  - [Tema 4](tema4.md)
-  - [Tema 5](tema5.md)
-  - [Tema 6](tema6.md)
-  - [Tema 7](tema7.md)</details> 
-- Ressurser
-  - [Notater](forlesninger.md)
-  - [Video](video.md)
-  - FAQ
+## Innhold
+[Kursdokument](Kursdokument.md)
 
-## Innlevering
-### [Frister](forelesningsplan.md)
-### Oppgaver
-- [Innlevering 1](innlevering1.md)
-- [Innlevering 2](innlevering2.md)
-- [Innlevering 3](innlevering3.md)
-- [Innlevering 4](innlevering4.md)
-- [Innlevering 5](innlevering5.md)
-- [Innlevering 6](innlevering6.md)
+<details>
+<summary>Temaer</summary>
+
+- [Tema 1](tema1.md)
+- [Tema 2](Tema2.md)
+- [Tema 3](tema3.md)
+- [Tema 4](tema4.md)
+- [Tema 5](tema5.md)
+- [Tema 6](tema6.md)
+- [Tema 7](tema7.md)
+
+</details> 
+<details>
+  <summary>Eksaminasjon</summary>
+  
+  - [Muntlig eksamen](muntligeksamen.md)
+  - Mappeevaluering
+    - [Innlevering 1](innlevering1.md)
+    - [Innlevering 2](innlevering2.md)
+    - [Innlevering 3](innlevering3.md)
+    - [Innlevering 4](innlevering4.md)
+    - [Innlevering 5](innlevering5.md)
+    - [Innlevering 6](innlevering6.md)
+  - [Frister](forelesningsplan.md)
+  </details>
+
+[Timeplan](https://timeplan.uit.no/emne_timeplan.php?sem=22h&module=SOK-2008-1#week=33-52)
+
+[Frister](forelesningsplan.md)
+
+Ressurser
+- [Notater](forlesninger.md)
+- [Video](video.md)
 
 ## FAQ
 
