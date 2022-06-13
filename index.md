@@ -35,7 +35,7 @@ Formålet med kurset SOK-2008 «Den Nordiske modellen» er å gi innsikt i sentr
   - [Muntligeksamen](muntligeksamen.md)
 - [Timeplan](https://timeplan.uit.no/emne_timeplan.php?sem=22h&module=SOK-2008-1#week=33-52)
 - [Frister](forelesningsplan.md)
-## Innleveringer
+## [Innleveringer](mappeevaluering.md#i_t_6)
 <details>
   <summary>Eksaminasjon</summary>
   
