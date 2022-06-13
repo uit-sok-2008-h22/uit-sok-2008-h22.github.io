@@ -23,6 +23,12 @@ Epost: mikko.moilainen@uit.no
 
 Telefon: +47 77 62 32 02
 
+## Studieadministrasjon
+- [Tore Kanck-Jørgensen](https://uit.no/ansatte/tore.jorgensen)
+- [Tone Berre](https://uit.no/ansatte/tone.berre)
+- [Selvbetjeningsportalen TOPdesk](https://uit.topdesk.net/tas/public/ssp/1550ac93-3cae-443d-a606-4ac1b2e5e6e1)
+
+
 ## Pensum
 - [Barr N. The Economics of the Welfare State, 6th Edition, Oxford University Press](https://www.akademika.no/9780198748588/pedagogikk-og-samfunnsvitenskap/samfunnsokonomi/economics-welfare-state)
 
