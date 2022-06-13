@@ -9,13 +9,13 @@ For alle oppgaver gjelder at du må gi økonomisk intuisjon (forklaring) til din
 
 Etter hver innlevering vil vi avsette tid til tilbakemelding på innleveringene, se [forelesningsplanen](forelesningsplan.md)
 
-## Innleveringer
-- [Innlevering tema 1](innlevering1.md)<a name="i_t1"></a>
-- [Innlevering tema 2](innlevering2.md)<a name="i_t2"></a>
-- [Innlevering tema 3](innlevering3.md)<a name="i_t3"></a>
-- [Innlevering tema 4](innlevering4.md)<a name="i_t4"></a>
-- [Innlevering tema 5](innlevering5.md)<a name="i_t5"></a>
-- [Innlevering tema 6](innlevering6.md)<a name="i_t6"></a>
+## Innleveringer<a name="i_t1_6"></a>
+- [Innlevering tema 1](innlevering1.md)
+- [Innlevering tema 2](innlevering2.md)
+- [Innlevering tema 3](innlevering3.md)
+- [Innlevering tema 4](innlevering4.md)
+- [Innlevering tema 5](innlevering5.md)
+- [Innlevering tema 6](innlevering6.md)
 
 ## Evaluering
 Enhver innlevering kan gi 0 til 2 poeng. Totalt kan altså innleveringene gi 12 poeng (6 innleveringer à 2 poeng). Evalueringen blir bedømt i henhold til regelen i Tabell 1.
