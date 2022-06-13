@@ -36,15 +36,17 @@ Formålet med kurset SOK-2008 «Den Nordiske modellen» er å gi innsikt i sentr
 <details>
   <summary>Eksaminasjon</summary>
   
-  - [Muntlig eksamen](muntligeksamen.md)
-  - Mappeevaluering
-    - [Innlevering 1](innlevering1.md)
-    - [Innlevering 2](innlevering2.md)
-    - [Innlevering 3](innlevering3.md)
-    - [Innlevering 4](innlevering4.md)
-    - [Innlevering 5](innlevering5.md)
-    - [Innlevering 6](innlevering6.md)
-  - [Frister](forelesningsplan.md)
+  + [Muntlig eksamen](muntligeksamen.md)
+  + Mappeevaluering
+    + Innlevering
+    + Innlevering
+    + [Innlevering 1](innlevering1.md)
+    + [Innlevering 2](innlevering2.md)
+    + [Innlevering 3](innlevering3.md)
+    + [Innlevering 4](innlevering4.md)
+    + [Innlevering 5](innlevering5.md)
+    + [Innlevering 6](innlevering6.md)
+  + [Frister](forelesningsplan.md)
   
 </details>
 
