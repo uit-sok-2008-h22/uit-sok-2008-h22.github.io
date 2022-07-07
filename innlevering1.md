@@ -66,8 +66,8 @@ denne situasjonen?
 4. Forklar hva som menes med uheldig utvalg. Diskuter hvordan offentlig tvungen sosialforsikring, slik som Folketrygden, kan løse dette problemet
 5.	Forklar hva som menes med adferdsrisiko. Diskuter hvordan offentlig tvungen sosialforsikring, slik som Folketrygden, kan løse dette problemet. Gi eksempler på adferdsrisiko, og hvordan myndighetene prøver å begrense dette problemet.
 
-6. Bruk denne R-koden («Gini coefficients.R») til å lage et diagram med Gini-koeffisienter for de fire største nordiske landene og USA. Beskriv resultatene og diskuter kort årsaker til forskjellene i inntektsfordelingen du observerer i ditt diagram. Datafilen, som dere trenger, heter «GCIPrawdatatest.xlsx».
-7. Bruk R-pakken gglorenz til å tegne Lorenz-kurver for inntektsfodelingen i Tromsø kommune. Diskuter basert på figurene om ulikheten i byen har økt i tidsrommet 2005-2020? Du bruker denne koden til å hente datene fra SSB.
+6. Bruk [denne R-koden](assets/Gini coefficients.R) til å lage et diagram med Gini-koeffisienter for de fire største nordiske landene og USA. Beskriv resultatene og diskuter kort årsaker til forskjellene i inntektsfordelingen du observerer i ditt diagram. Datafilen, som dere trenger, heter [«GCIPrawdatatest.xlsx»](assets/GCIPrawdatatest.xlsx).
+7. Bruk R-pakken [gglorenz](https://github.com/jjchern/gglorenz)) til å tegne Lorenz-kurver for inntektsfodelingen i Tromsø kommune. Diskuter basert på figurene om ulikheten i byen har økt i tidsrommet 2005-2020? Du bruker [denne koden](assets/tromsoe.R) til å hente dataene du trenger fra SSB.
 
 
 * Data:  (lenke)
