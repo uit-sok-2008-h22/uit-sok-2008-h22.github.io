@@ -21,17 +21,54 @@ På seminarene knyttet til Tema 2 har du tilfelle å jobbe med oppgavene sammen 
 
 Litteratur:
 
-[Forelesinger](video.md#f_t1)
+[Forelesninger](video.md#f_t1)
 
 [Videoer](video.md#v_t1)
 
 ## Utfordring 1.1
 
+1. Hva mener vi med bidragsbaserte, behovsprøvde og universelle ordninger?
+2. Vi skiller gjerne mellom likhet (equality) og rettferdighet (equity/justice) som begrep. Observerte forskjeller i utdanning/levekår/inntekt/helse etc kan skyldes egne valg (røyking, risikoadferd, egeninnsats, etc) eller eksterne faktorer og betingelser som personene selv har lite kontroll over (rent vann, gratis skole, etc). Dersom en person har dårlig helse pga forurensning, kan vi betrakte dette som både unødvendig, unngåelig og urettferdig. For politikkformål ønsker vi ofte å redusere ulikhet og omfordele ved å fokusere på faktorer som personene selv ikke har kontroll over. Noen ganger må en omfordele mhp. faktorer som er korrelert med faktorer som gir opphav til ulikhet. Gjør rede for begrepene vertikal og horisontal omfordeling (side 12 i læreboken). Når kan det være akuelt med horisontal omfordeling? 
+3. Burde en sosialplanlegger være opptatt av inntektsfordelingen eller fordelingen av nytte? Hvordan relaterer svaret seg til behov og evner? 
+4. Drøft ulike teorier om sosial rettferdighet.  Gjør spesielt rede for maximin-prinsippet til John Rawls. 
+5. Finnes det noen ulemper ved å eliminere all ulikhet i samfunnet? 
+6. Finnes det noen ulemper ved å eliminere all urettferdighet i samfunnet?
+
 
 ## Utfordring 1.2
+1. Forklar kort hva er en Paretoforbedring og hva som menes med Paretoeffektivitet, bytteeffektivitet, produksjonseffektivitet og sammensetningseffektivitet. Forklar også med egne ord hva 1. og 2. velferdsteorem sier. 
+2. For noen pasienter er organtransplantasjon det eneste gjenværende behandlingsalternativet. Det er imidlertid en global mangel på organer som er tilgjengelige for transplantasjon. Organdonasjon fra friske frivillige og anskaffelse av donorkort oppfordres, mens den kommersielle organhandel er nesten universelt forbudt, unntatt i Iran. 
+Vi antar at Trine har to friske nyrer, Erna har to sviktende nyrer, og at det ikke finnes noen annen behandling for Erna enn en nyretransplantasjon. Tegn en Edgeworths bytteboks som viser den opprinnelige ressursfordelingen for Trine og Erna. Tips: Sett "Antall friske nyrer" på y-aksen og «Penger» på x-aksen. Diskuter om Trine og Erna ville få det bedre hvis den ene kunne selge og den andre kjøpe en nyre. Bruk bytteboksen videre til å vise hvordan legal handel med nyrer kan øke effektiviteten. Diskuter også etiske hensyn.
+3. I hvilke av følgende markedene vil du forvente at markedet selv kunne oppnå en Paretoeffektiv løsning? Diskuter kort hvorfor (Tips: tenk på hvilke markedssvikt kan være til stede på markedet). Gi også eksempler på hvilke inngrep har det offentlige gjort for å bøte på eventuelle markedssvikt.
+ 1.	Markedet for helsetjenester
+ 2.	Aksjemarked
+ 3.	Studentlån
 
 
 ## Utfordring 1.3
+
+1. Personen Per har et usikkert prosjekt som gir avkastning y = 4000 dersom det går dårlig og y = 12000
+dersom det går bra. Begge utfallene har lik sannsynlighet. Nyttefunksjonen er gitt ved
+U(y) = y<sup>0.5</sup>.
+1.1 Er personen risikoavers?
+1.2 Finn forventa inntekt og forventa nytte fra prosjektet.
+1.3 Hva er forsikringspremien?
+
+2. For at en forsikringsordning skal fungere effektivt må noen forutsetninger være oppfylt. Diskuter disse forutsetningene.
+Vi ser på et privat forsikringsmarked for uførepensjon med to typer forsikringstakere. Den ene gruppen har lav sannsynlighet for at dårlig helse inntreffer (p<sub>L</sub>), mens den andre gruppen har høy sannsynlighet for at dårlig helse inntreffer (p<sub>H</sub>). Anta at forsikringsselskapet ikke kjenner de ulike individene sin sannsynlighet for dårlig helse. 
+3.1 Hva mener vi med en separerende likevekt?
+Anta at forsikringsselskapet ønsker å ta i bruk genetisk testing for å avsløre de ulike
+individenes sannsynlighet for dårlig helse. 
+3.2 Er dette en fordel eller ulempe for de to gruppene dersom vi har en stabil separerende likevekt?
+3.3 Hva mener vi med en pooling-løsning? Er genetisk testing en fordel eller ulempe i
+denne situasjonen?
+
+4. Forklar hva som menes med uheldig utvalg. Diskuter hvordan offentlig tvungen sosialforsikring, slik som Folketrygden, kan løse dette problemet
+5.	Forklar hva som menes med adferdsrisiko. Diskuter hvordan offentlig tvungen sosialforsikring, slik som Folketrygden, kan løse dette problemet. Gi eksempler på adferdsrisiko, og hvordan myndighetene prøver å begrense dette problemet.
+
+6. Bruk denne R-koden («Gini coefficients.R») til å lage et diagram med Gini-koeffisienter for de fire største nordiske landene og USA. Beskriv resultatene og diskuter kort årsaker til forskjellene i inntektsfordelingen du observerer i ditt diagram. Datafilen, som dere trenger, heter «GCIPrawdatatest.xlsx».
+7. Bruk R-pakken gglorenz til å tegne Lorenz-kurver for inntektsfodelingen i Tromsø kommune. Diskuter basert på figurene om ulikheten i byen har økt i tidsrommet 2005-2020? Du bruker denne koden til å hente datene fra SSB.
+
 
 * Data:  (lenke)
 * Script: (lenke)
