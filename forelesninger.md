@@ -47,7 +47,7 @@ Her finner du forelesningsnotater lenket til Tema 6
 
 ## Forelesninger [Tema 7](temaer.md#tema7)<a name="f_t7"></a>
 Her finner du forelesningsnotater lenket til Tema 7
-* [Velferdsstatens framtid](https://htmlpreview.github.io/?https://github.com/uit-sok-2008-h22/uit-sok-2008-h22.github.io/blob/main/framtid_studenter.html)
+* [Velferdsstatens framtid](https://htmlpreview.github.io/?https://github.com/uit-sok-2008-h22/uit-sok-2008-h22.github.io/blob/master/Assets/framtid_studenter.html)
 
 ## Instruksjon til muntlig eksamen
 * <a href="Assets/Instruks_muntlig_eksamen2022.pdf"> Instruksjon til muntlig eksamen</a>
